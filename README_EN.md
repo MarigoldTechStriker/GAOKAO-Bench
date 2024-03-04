@@ -10,7 +10,7 @@ GAOKAO-Bench is an evaluation framework that uses Chinese National College Entra
 
 ## Introduction
 
-We aim to establish a standardized, comprehensive evaluation framework to accurately and comprehensively assess large models. In China, the GAOKAO is one of the most standardized, comprehensive, and widely recognized examinations. We hope to use GAOKAO questions to evaluate the capabilities of large models. Therefore, we have collected questions from the national Gaokao papers from 2010 to 2022, including 1781 objective questions and 1030 subjective questions, to build the data part of GAOKAO-Bench.
+We aim to establish a standardized, comprehensive evaluation framework to accurately and comprehensively assess large models. In China, the GAOKAO is one of the most standardized, comprehensive, and widely recognized examinations used to gain entrance into the country's top universities. We hope to use GAOKAO questions to evaluate the capabilities of large models. Therefore, we have collected questions from the national Gaokao papers from 2010 to 2022, including 1781 objective questions and 1030 subjective questions, to build the data part of GAOKAO-Bench.
 
 ## Dataset
 
